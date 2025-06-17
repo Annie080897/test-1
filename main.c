@@ -32,7 +32,5 @@ int main(/*int argc, char* argv[]*/) // argc - arguments count, argv - arguments
     int val = scanf("%d", &age);
 
     printf("\nyour age is %d \n", age);
-    
-    return 0;
 }
 
